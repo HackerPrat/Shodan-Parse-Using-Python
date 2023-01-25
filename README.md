@@ -22,13 +22,13 @@ The script will download the results from SHODAN, extract IP:Port information fr
 
 # Requirements
 
-**Python 3.x
+Python 3.x
 
-**requests
+requests
 
-**BeautifulSoup
+BeautifulSoup
 
-**gzip
+gzip
 
 # Note:
 The script will remove the intermediate files "shodan_results.json.gz" and "file.json" and "output.txt" after the process.

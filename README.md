@@ -21,13 +21,14 @@ A simple python script that downloads the results of a query from SHODAN and ext
 The script will download the results from SHODAN, extract IP:Port information from the results, remove duplicates and write the unique IP:Port combinations to a new file named "unique_output.txt"
 
 # Requirements
-*Python 3.x
 
-*requests
+**Python 3.x
 
-*BeautifulSoup
+**requests
 
-*gzip
+**BeautifulSoup
+
+**gzip
 
 # Note:
 The script will remove the intermediate files "shodan_results.json.gz" and "file.json" and "output.txt" after the process.

@@ -14,7 +14,7 @@ A simple python script that downloads the results of a query from SHODAN and ext
 
 -Run the script using python
 
-`python spup.py`
+`python3 spup.py`
 
 **Enter the required details for the SHODAN API-Key and the query name**
 

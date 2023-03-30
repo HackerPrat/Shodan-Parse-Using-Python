@@ -30,7 +30,6 @@ BeautifulSoup
 
 gzip
 
-GeckoDriver: [Download](https://github.com/mozilla/geckodriver/releases)
 
 # Note:
 The script will remove the intermediate files "shodan_results.json.gz" and "file.json" and "output.txt" after the process.
